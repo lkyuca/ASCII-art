@@ -4,5 +4,5 @@
 <img width="1920" height="930" alt="neofetch" src="https://github.com/user-attachments/assets/0db60827-ae55-463b-9612-65471d14e4af" />
 <img width="1920" height="1040" alt="noefetch" src="https://github.com/user-attachments/assets/4e978ad0-d0f7-496e-b0bc-de63e187dadd" />
 <img width="2559" height="1383" alt="Screenshot 2025-11-09 001958" src="https://github.com/user-attachments/assets/70c42f6f-675d-4bf3-a3e1-375084ba5858" />
-
+<img width="2549" height="1301" alt="Screenshot 2026-08-04 162658" src="https://github.com/user-attachments/assets/8be6e793-8fd8-4223-bf9a-36e0a45a7835" />
 
